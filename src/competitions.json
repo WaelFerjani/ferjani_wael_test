@@ -1,0 +1,102 @@
+{
+  "competitions": [
+    {
+      "id": "1",
+      "name": "Hackathon",
+      "fees": "100",
+      "date": "01/04/2023",
+      "description": "lorem ipsum efleflzrgrfg,llvsfrf,devf;gkrg"
+    },
+    {
+      "id": "2",
+      "name": "Meet & Greet",
+      "fees": "30",
+      "date": "01/04/2023",
+      "description": "lorem ipsum efleflzrgrfg,llvsfrf,devf;gkrg"
+    },
+    {
+      "id": "b664",
+      "name": "wael",
+      "price": "ef,e",
+      "nbTickets": "3",
+      "nbParticipants": "2"
+    },
+    {
+      "id": "302d",
+      "name": "hjklzrg",
+      "price": "rfkzrgr",
+      "nbTickets": "3",
+      "nbParticipants": "2"
+    },
+    {
+      "id": "f081",
+      "name": "hejkfl",
+      "price": "efjgnkzreb,",
+      "nbTickets": "rfjgnke,lt;",
+      "nbParticipants": "rgnjke,b:"
+    },
+    {
+      "id": "e716",
+      "name": "ebfrjzgke,l",
+      "price": "ebfjzkrg,",
+      "nbTickets": "aebjfznkr,",
+      "nbParticipants": "efjdskv"
+    },
+    {
+      "id": "71d8",
+      "name": "EFBJRNGK",
+      "price": "EFHBJFNR",
+      "nbTickets": "3",
+      "nbParticipants": "3"
+    },
+    {
+      "id": "1958",
+      "name": "EAFHJ",
+      "price": "EFKNZ?",
+      "nbTickets": "3",
+      "nbParticipants": "2"
+    },
+    {
+      "id": "f438",
+      "name": "FEJKG",
+      "price": "EAFK?ZRG",
+      "nbTickets": "3",
+      "nbParticipants": "3"
+    },
+    {
+      "id": "81bd",
+      "name": "EFIKZ",
+      "price": "EFKJZROKSG",
+      "nbTickets": "3",
+      "nbParticipants": "3"
+    },
+    {
+      "id": "7c2b",
+      "name": "efbjrgnk,",
+      "price": "efhgkjrl",
+      "nbTickets": "3",
+      "nbParticipants": "3"
+    },
+    {
+      "id": "6ac5",
+      "name": "hefjzkrg",
+      "price": "efe",
+      "nbTickets": "3",
+      "nbParticipants": "0"
+    },
+    {
+      "id": "95b5",
+      "name": "zhfjekzg",
+      "price": "efgnek,tb",
+      "nbTickets": "4",
+      "nbParticipants": "6"
+    },
+    {
+      "id": "4dc3",
+      "name": "name",
+      "price": "gehjfk",
+      "nbTickets": "-25",
+      "nbParticipants": "-3"
+    }
+  ]
+}
